@@ -217,8 +217,6 @@ function Projects() {
                     />
                     <div className='flex gap-3 mt-5'>
                         <button className='uppercase rounded-full border-[1px] border-zinc-600 px-3 py-1'>Branded Template</button>
-                        <button className='uppercase rounded-full border-[1px] border-zinc-600 px-3 py-1'>sales deck</button>
-                        <button className='uppercase rounded-full border-[1px] border-zinc-600 px-3 py-1'>social media template</button>
                     </div>
                 </motion.div>
             </div>
