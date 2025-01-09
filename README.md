@@ -6,8 +6,6 @@ This is a modern and interactive design showcase website, built with **React**, 
 
 - **Smooth Scrolling**: Enhanced scrolling experience powered by `locomotive-scroll` for a smooth, immersive feel.
 - **Animations**: Interactive animations implemented with `framer-motion` to create an engaging user experience.
-- **Responsive Design**: Fully responsive layout to ensure a great user experience across different devices and screen sizes.
-- **Routing**: Basic routing using `react-router-dom` to navigate between pages seamlessly.
 - **Deployable on Vercel**: The project is ready to be deployed to Vercel with optimized production builds.
 
 ## Live Demo
